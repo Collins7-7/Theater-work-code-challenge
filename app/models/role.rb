@@ -33,7 +33,7 @@ def understudy
         ea.hired 
         end.map do |all|  
         if all.hired == true
-         allSSSS
+         all
         else  
         "no actor has been hired for understudy for this role"
         end  
